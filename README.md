@@ -5,7 +5,7 @@
 <div>
   <ul>
     <li>🔭 I’m currently learning Machine Learning.</li>
-    <li>💬 Ask me about Web Development.</li>
+    <li>💬 Ask me about Software Development & Design.</li>
     <li>📫 How to reach me: vinayrohitreddypadala12@gmail.com</li>
     <li>👨‍💻 All of my projects are on: https://github.com/rohitreddy192</li>
   </ul>
